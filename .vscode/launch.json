@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Applications/C_beginner/C_Projects/scientificCalculator/src",
+      "program": "/Applications/C_beginner/C_Projects/scientificCalculator/src/build/Debug/outDebug"
+    }
+  ]
+}
